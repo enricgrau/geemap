@@ -19,6 +19,9 @@ geemap
 
 .. image:: https://github.com/giswqs/geemap/workflows/docs/badge.svg
         :target: https://geemap.org
+        
+.. image:: https://github.com/enricgrau/spectrapepper/workflows/docs/badge.svg
+        :target: https://geemap.org
 
 .. image:: https://img.shields.io/badge/YouTube-Channel-red   
         :target: https://www.youtube.com/c/QiushengWu
