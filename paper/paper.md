@@ -10,6 +10,9 @@ authors:
     - name: Qiusheng Wu
       orcid: 0000-0001-5437-4073
       affiliation: "1"
+    - name: Test tester
+      orcid: 0000-0001-5437-4073
+      affiliation: "1"
 affiliations:
     - name: Department of Geography, University of Tennessee, Knoxville, TN 37996, United States
       index: 1
