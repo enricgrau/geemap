@@ -14,10 +14,11 @@ authors:
       orcid: 0000-0001-5437-4073
       affiliation: "2"
 affiliations:
-    - name: Department of Geography, University of Tennessee, Knoxville, TN 37996, United States
-      index: 1
-    - name: Universidad de Barcelona, Bacleon, España
-      index: 2
+ - name: Department of Geography, University of Tennessee, Knoxville, TN 37996, United States
+   index: 1
+ - name: Universidad de Barcelona, Bacleon, España
+   index: 2
+
 date: 21 May 2020
 bibliography: paper.bib
 ---
