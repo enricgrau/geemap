@@ -2,9 +2,9 @@
     "description": "This library aims to enable researchers with little programming knowledge to implement artificial intelligence and machine learning in the analysis of spectroscopic data for photovoltaic and other novel materials and devices.", 
     "license": "MIT", 
     "title": "spectrapepper: A Python toolbox for advanced analysis of spectroscopic data for materials and devices", 
-    "version": "v0.1.1", 
+    "version": "v0.0.7", 
     "upload_type": "software", 
-    "publication_date": "2021-11-16", 
+    "publication_date": "2021-11-17", 
     "creators": [
         {
 	    "affiliation": "Catalonia Institute for Energy Research (IREC), Jardins de les Dones de Negre 1, 08930 Sant Adrià de Besòs, Spain",
@@ -42,12 +42,12 @@
     "related_identifiers": [
         {
             "scheme": "url", 
-            "identifier": "https://github.com/enricgrau/geemap/tree/v0.0.6", 
+            "identifier": "https://github.com/enricgrau/geemap/tree/v0.0.7", 
             "relation": "isSupplementTo"
         }, 
         {
             "scheme": "doi", 
-            "identifier": "10.5281/zenodo.5705696", 
+            "identifier": "10.5072/zenodo.963108", 
             "relation": "isVersionOf"
         }
     ]
