@@ -1,0 +1,74 @@
+{
+    "description": "A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and folium", 
+    "license": "other-open", 
+    "title": "enricgrau/geemap: v0.0.10", 
+    "version": "v0.0.10", 
+    "upload_type": "software", 
+    "publication_date": "2021-11-17", 
+    "creators": [
+        {
+            "affiliation": "University of Tennessee", 
+            "name": "Qiusheng Wu"
+        }, 
+        {
+            "name": "Enric Tom\u00e1s Grau-Luque"
+        }, 
+        {
+            "affiliation": "University of Alabama in Huntsville", 
+            "name": "Kel Markert"
+        }, 
+        {
+            "affiliation": "FAO @openforis", 
+            "name": "Rambaud Pierrick"
+        }, 
+        {
+            "name": "Ojaybee"
+        }, 
+        {
+            "affiliation": "King Abdullah University of Science and Technology", 
+            "name": "Oliver Lopez"
+        }, 
+        {
+            "name": "ErikSeras"
+        }, 
+        {
+            "affiliation": "EMCDE Student", 
+            "name": "Cesar Aybar"
+        }, 
+        {
+            "affiliation": "UIUC", 
+            "name": "Daniel S. Katz"
+        }, 
+        {
+            "affiliation": "@AXATechLab", 
+            "name": "Ciprian Tomoiaga"
+        }, 
+        {
+            "affiliation": "Consejo Superior de Investigaciones Cient\u00edficas (CSIC)", 
+            "name": "Diego Garcia Diaz"
+        }, 
+        {
+            "name": "deeplook"
+        }, 
+        {
+            "affiliation": "Delft University of Technology", 
+            "name": "Hugo Ledoux"
+        }, 
+        {
+            "name": "Jack Reid"
+        }
+    ], 
+    "access_right": "open", 
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/enricgrau/geemap/tree/v0.0.10", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5072/zenodo.963108", 
+            "relation": "isVersionOf"
+        }
+    ]
+}
