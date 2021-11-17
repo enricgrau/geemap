@@ -1,0 +1,32 @@
+{
+    "description": "This library aims to enable researchers with little programming knowledge to implement artificial intelligence and machine learning in the analysis of spectroscopic data for photovoltaic and other novel materials and devices.", 
+    "license": "MIT", 
+    "title": "spectrapepper: A Python toolbox for advanced analysis of spectroscopic data for materials and devices", 
+    "version": "v0.0.4", 
+    "upload_type": "software", 
+    "publication_date": "2021-11-17", 
+    "creators": [
+        {
+            "affiliation": "University of Tennessee",
+            "name": "Qiusheng Wu"
+        }, 
+        {
+            "affiliation": "University of Tennessee",
+            "name": "Enric Tom\u00e1s Grau-Luque"
+            "orcid": "0000-0002-8357-5824"
+        }
+    ], 
+    "access_right": "open", 
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/enricgrau/geemap/tree/v0.0.4", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5072/zenodo.963108", 
+            "relation": "isVersionOf"
+        }
+    ]
+}
