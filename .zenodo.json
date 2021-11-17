@@ -2,7 +2,7 @@
     "description": "This library aims to enable researchers with little programming knowledge to implement artificial intelligence and machine learning in the analysis of spectroscopic data for photovoltaic and other novel materials and devices.", 
     "license": "MIT", 
     "title": "spectrapepper: A Python toolbox for advanced analysis of spectroscopic data for materials and devices", 
-    "version": "v0.1.1", 
+    "version": "v0.0.2", 
     "upload_type": "software", 
     "publication_date": "2021-11-16", 
     "creators": [
@@ -47,7 +47,7 @@
         }, 
         {
             "scheme": "doi", 
-            "identifier": "10.5281/zenodo.5705696", 
+            "identifier": "", 
             "relation": "isVersionOf"
         }
     ]
